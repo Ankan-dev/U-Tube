@@ -1,0 +1,14 @@
+{
+  "name": "u-tube",
+  "version": "1.0.0",
+  "description": "Complex back-end project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Ankan Mandal",
+  "license": "ISC"
+}
